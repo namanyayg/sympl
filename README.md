@@ -11,12 +11,20 @@ I wanted a super simple framework, which had:
 2. An HTML5 skeleton made and ready to go.
 3. Default anchor style changed, and underline removed.
 4. A menu set to display:inline.
-5. Wrappers set.
-6. Has [Necolas' normalize.css](http://necolas.github.com/normalize.css/).
-7. Has a byline in the footer.
+5. Retina favicons set in the HTML; all required favicon files placed in root.
+6. [Necolas' normalize.css](http://necolas.github.com/normalize.css/) on the top.
+7. A byline in the footer.
 
 &hellip;and I made just that.
 
 &hellip;and now it's open source. Improved plenty of times after learning from project experiences, I decided to let Sympl be in the hands of awesome developers who would tweak it, improve it, and make it better for people to use.
+
+### Changelog
+
+* v1.2:
+
+1. Added retina favicon support. Courtesy [Mathias Bynens](http://mathiasbynens.be/notes/touch-icons).
+2. Added quotes to `blockquote` in CSS.
+
 
 *Hope you like it! Enjoy!*

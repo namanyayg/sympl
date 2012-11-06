@@ -22,11 +22,19 @@ body {
   margin:0 auto;
 }
 
+/*** @ELEMENTS ***/
+
 a {
   color: #ffae00;
   text-decoration: none;
 }
 
+blockquote { quotes: "\201C" "\201D"; }
+blockquote p { display:inline; }
+blockquote:before { content: open-quote; }
+blockquote:after { content: close-quote; }
+
+/*** @TYPE ***/
 
 h1,h2,h3,h4,h5,h6,
 ul,ol,dl,p,address,figure,pre,fieldset,table,hr{
