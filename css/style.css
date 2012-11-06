@@ -111,7 +111,9 @@ h6{
 /*** @COLOPHON ***/
 
 .colophon {
-
+  text-align:center;
+  font-size: 82.5%;
+  padding: 1.5em;
 }
 
 /*** @FORMS ***/

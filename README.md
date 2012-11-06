@@ -13,7 +13,7 @@ I wanted a super simple framework, which had:
 * Has form and button styles.
 * A menu set to display:inline.
 * Retina favicons set in the HTML; all required favicon files placed in root.
-* [Necolas' `normalize.css`](http://necolas.github.com/normalize.css/) on the top.
+* [Necolas' `normalize.css`](http://necolas.github.com/normalize.css/).
 * A byline in the footer.
 * [HTML5Shiv](http://html5shiv.googlecode.com/) in it's javascript.
 
