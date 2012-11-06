@@ -10,9 +10,10 @@ I wanted a super simple framework, which had:
 * A baseline defined on 100% (16px)
 * An HTML5 skeleton made and ready to go.
 * Default anchor style changed, and underline removed.
+* Has form and button styles.
 * A menu set to display:inline.
 * Retina favicons set in the HTML; all required favicon files placed in root.
-*  [Necolas' `normalize.css`](http://necolas.github.com/normalize.css/) on the top.
+* [Necolas' `normalize.css`](http://necolas.github.com/normalize.css/) on the top.
 * A byline in the footer.
 * [HTML5Shiv](http://html5shiv.googlecode.com/) in it's javascript.
 
