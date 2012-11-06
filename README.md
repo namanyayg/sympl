@@ -21,10 +21,10 @@ I wanted a super simple framework, which had:
 
 ### Changelog
 
-* v1.2:
+#### v1.2:
 
 1. Added retina favicon support. Courtesy [Mathias Bynens](http://mathiasbynens.be/notes/touch-icons).
-2. Added quotes to `blockquote` in CSS.
+2. Added quotes to `blockquote` using CSS.
 
 
 *Hope you like it! Enjoy!*
