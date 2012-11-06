@@ -17,7 +17,7 @@ I wanted a super simple framework, which had:
 
 &hellip;and I made just that.
 
-&hellip;and now it's open source. Improved plenty of times after learning from project experiences, I decided to let Sympl be in the hands of awesome developers who would tweak it, improve it, and make it better for people to use.
+&hellip;and now it's open source.
 
 ### Changelog
 
