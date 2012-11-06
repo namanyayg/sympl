@@ -1,38 +1,51 @@
-# Sympl - The no bullshit HTML5/CSS framework.
+## What is Sympl?
 
-I thought of making Sympl when I noticed that:
+**Sympl is the no bullshit HTML5/CSS framework.**
 
-1. Not optimized for me.
-2. Bloated.
+Put simply, Sympl is a super simple framework to make static websites. Sympl is light, but has the correct features to get you started and going. It's developed by [Namanyay Goel](http://namanyayg.com/).
 
-I wanted a super simple framework, which had:
+I made Sympl because I was tired with the traditional frameworks, all which were:
 
-* A baseline defined on 100% (16px)
-* An HTML5 skeleton made and ready to go.
-* Default anchor style changed, and underline removed.
-* Has form and button styles.
-* A menu set to display:inline.
-* Retina favicons set in the HTML; all required favicon files placed in root.
-* [Necolas' `normalize.css`](http://necolas.github.com/normalize.css/).
-* A byline in the footer.
-* [HTML5Shiv](http://html5shiv.googlecode.com/) in it's javascript.
+1. Bloated. (I didn't use more than half the things half as many times I used them)
+2. Not perfect everywhere. (Each had too much of accessories and extras like buttons, notes, most which I'll never use)
 
-&hellip;and I made just that.
+&hellip;And thus, Sympl was born.
+
+## Why use Sympl?
+
+Simply because it's simple. And amazing. Here are a few features:
+
+* A good vertical rhythym defined.
+* A HTML5 skeleton made, and ready to go.
+* A great grid, having half, quarter, one third, and two third columns going on.
+* Anchors set up&mdash;No underline, and no ugly blue.
+* Added retina favicons. All files ready + code in header.
+* Beautiful form elements + One button style.
+* CSS starts with [Necolas' normalize.css](http://necolas.github.com/normalize.css/).
+* Javascript starts with [HTML5Shiv](http://html5shiv.googlecode.com/).
+
+Sympl is lightweight, fast, ready to go, and always usable. You can use it in each and every project, and you'll see that you use *all* of the things bundled with Sympl.
 
 ### Changelog
 
-#### v1.4
+#### v2.0
+1. Added grid.
+2. Redesigned homepage.
+3. Added giga class for text.
+4. Removed wildcard operator uses.
 
+
+#### v1.4
 1. Added form and button styles.
 2. Added HTML5Shiv.
 
-#### v1.3
 
+#### v1.3
 1. Edited index.htm for faulty script tag.
 2. Added HTML5Shiv in the JS.
 3. Set styles for form elements.
 
-#### v1.2:
 
-1. Added retina favicon support. Courtesy [Mathias Bynens](http://mathiasbynens.be/notes/touch-icons).
+#### v1.2
+1. Added retina favicon support. Courtesy <a href="http://mathiasbynens.be/notes/touch-icons">Mathias Bynens</a>.
 2. Added quotes to `blockquote` using CSS.
