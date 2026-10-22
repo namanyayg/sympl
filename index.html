@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sympl.css — Namanyay Goel</title><link rel="stylesheet" href="sympl.css"><link rel="stylesheet" href="demo.css"></head>
+<body><main>
+<h1>Sympl.css</h1><p>A small responsive grid and typography stylesheet by <a href="https://nmn.gl/">Namanyay Goel</a>.</p>
+<p>Version 3.0.0, preserved from the original project. This demo was recreated from its documentation.</p>
+<p><a href="sympl.css" download>Download CSS</a> · <a href="sympl.min.css" download>Minified CSS</a> · <a href="https://github.com/namanyayg/sympl">Source and documentation</a></p>
+<h2>The grid</h2><p>Resize the window to see the columns change. Put <code>sympl</code> items inside a <code>stack</code>.</p>
+<div class="stack stack-sympl"><div class="sympl half"><div class="tile">half</div></div><div class="sympl half"><div class="tile">half</div></div></div>
+<div class="stack stack-sympl"><div class="sympl onethird"><div class="tile">onethird</div></div><div class="sympl twothirds"><div class="tile">twothirds</div></div></div>
+<div class="stack stack-sympl"><div class="sympl quarter l-onethird m-half s-half"><div class="tile">quarter · l-onethird · m-half · s-half</div></div><div class="sympl quarter l-onethird m-half s-half"><div class="tile">quarter · l-onethird · m-half · s-half</div></div></div>
+<pre><code>&lt;div class="stack"&gt;
+  &lt;div class="sympl quarter l-onethird m-half s-half"&gt;
+    Content goes here.
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre>
+<p>Prefixes apply at and below their breakpoints: <code>l-</code> at 60em, <code>m-</code> at 45em, and <code>s-</code> at 30em. Without an <code>s-</code> override, columns become full width on small screens.</p>
+<h2>Typography</h2><p>Headings and paragraphs follow a 1.5 baseline rhythm. The stylesheet also includes empty rules for links and form controls.</p>
+<p><a href="LICENSE.md">License</a></p>
+</main></body></html>

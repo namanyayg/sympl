@@ -57,3 +57,9 @@ There are a few empty declarations, and some defaults set, example, anchor color
 
 Sympl uses `box-sizing: border-box;` which isn't supported IE7 and below. 
 
+
+## Restoration (October 2026)
+
+Live archive: https://nmn.gl/sympl/
+
+The original source remains in Git history. This static edition has no server runtime, analytics, or active form submission. The documentation demo is new; the original stylesheet is unchanged.

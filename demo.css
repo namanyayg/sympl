@@ -1,0 +1,4 @@
+main { max-width: 58rem; margin: 3rem auto; padding: 0 1.25rem; }
+h2 { margin-top: 2rem; } a { color: #005bbb; text-decoration: underline; }
+.stack { margin-top: 1.5rem; } .tile { background: #eaf2fb; padding: 1rem; overflow-wrap: anywhere; }
+pre { background: #f4f4f4; padding: 1rem; overflow-x: auto; } code { font-size: .9em; }
